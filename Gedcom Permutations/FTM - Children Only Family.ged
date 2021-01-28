@@ -1,0 +1,73 @@
+0 HEAD
+1 SOUR FTW
+2 VERS Family Tree Maker (16.0.350)
+2 NAME Family Tree Maker for Windows
+2 CORP MyFamily.com, Inc.
+3 ADDR 360 W 4800 N
+4 CONT Provo, UT 84604
+3 PHON (801) 705-7000
+1 DEST FTW
+1 DATE 19 JAN 2016
+1 CHAR ANSEL
+1 SUBM Unknown
+1 FILE P:\FTMCHILONLY.GED
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 _SCHEMA
+2 INDI
+3 _FA1
+4 LABL Fact 1
+3 _FA2
+4 LABL Fact 2
+3 _FA3
+4 LABL Fact 3
+3 _FA4
+4 LABL Fact 4
+3 _FA5
+4 LABL Fact 5
+3 _FA6
+4 LABL Fact 6
+3 _FA7
+4 LABL Fact 7
+3 _FA8
+4 LABL Fact 8
+3 _FA9
+4 LABL Fact 9
+3 _FA10
+4 LABL Fact 10
+3 _FA11
+4 LABL Fact 11
+3 _FA12
+4 LABL Fact 12
+3 _FA13
+4 LABL Fact 13
+3 _MREL
+4 LABL Relationship to Mother
+3 _FREL
+4 LABL Relationship to Father
+2 FAM
+3 _FA1
+4 LABL Marriage fact
+3 _FA2
+4 LABL Fact 2
+3 _MSTAT
+4 LABL Marriage Beginning Status
+3 _MEND
+4 LABL Marriage Ending Status
+0 @I01@ INDI
+1 NAME One /Sibling/
+1 SEX M
+1 FAMC @F1@
+0 @I02@ INDI
+1 NAME Two /Sibling/
+1 SEX F
+1 FAMC @F1@
+0 @F1@ FAM
+1 CHIL @I01@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I02@
+2 _FREL Natural
+2 _MREL Natural
+0 TRLR
